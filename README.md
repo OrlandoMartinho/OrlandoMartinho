@@ -10,3 +10,5 @@
 <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrlandoMartinho&layout=compact&hide_border=true&title_color=1DAFDB&text_color=1DAFDB&bg_color=0d1117" />
 
 </div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=OrlandoMartinho&custom_title=Orlando%20Saiombo%20Contribution%20graph&hide_border=true&bg_color=0d1117&title_color=1DAFDB&color=1DAFDB&line=1DAFDB&point=1DAFDB)](https://github.com/ashutosh00710/github-readme-activity-graph)
