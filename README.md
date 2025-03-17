@@ -14,8 +14,10 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=OrlandoMartinho&custom_title=Orlando%20Saiombo%20Contribution%20graph&hide_border=true&bg_color=0d1117&title_color=1DAFDB&color=1DAFDB&line=1DAFDB&point=1DAFDB)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-<div align="center">  
+## 🐍 Contribuições:
 
+<div>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation">
 </div>
   
 
