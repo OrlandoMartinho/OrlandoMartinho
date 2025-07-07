@@ -30,7 +30,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=0D1117)&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring-0D1117?style=for-the-badge&logo=spring&logoColor=6DB33F&labelColor=0D1117)&nbsp;
 
----
+
 
 ### 🛠 Tools:
 
@@ -39,7 +39,7 @@
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
 
----
+
 
 ### 📌 Other Knowledge:
 
@@ -49,7 +49,6 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=336791&labelColor=0D1117)&nbsp;
 
----
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
