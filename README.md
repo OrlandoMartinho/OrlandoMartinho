@@ -1,58 +1,64 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1dafdb&heigth=120&section=header"/>
-
-[![Typing svg](https://readme-typing-svg.herokuapp.com/?color=1dafdb&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+Orlando+Saiombo;I+am+fullstack;I+from+Angola;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1DAFDB&height=120&section=header&animation=fadeIn"/>
 
 <div align="center">
-
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=OrlandoMartinho&show_icons=true&count_private=true&hide_border=true&title_color=1dafdb&icon_color=1dafdb&text_color=c9d1d9&bg_color=0d1117" alt="Orlando Martinho status"/>
-
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrlandoMartinho&layout=compact&hide_border=true&title_color=1DAFDB&text_color=1DAFDB&bg_color=0d1117" />
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1DAFDB&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+I'M+ORLANDO+SAIOMBO;FULLSTACK+DEVELOPER;FROM+ANGOLA;SYSTEMS+DEVELOPMENT+GRADUATE;WELCOME+TO+MY+PROFILE!+%3AD)](https://git.io/typing-svg)
 
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=OrlandoMartinho&custom_title=Orlando%20Saiombo%20Contribution%20graph&hide_border=true&bg_color=0d1117&title_color=1DAFDB&color=1DAFDB&line=1DAFDB&point=1DAFDB)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center" style="display: flex; gap: 20px; justify-content: center; margin: 20px 0;">
+  
+  <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api?username=OrlandoMartinho&show_icons=true&count_private=true&hide_border=true&title_color=1DAFDB&icon_color=1DAFDB&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true" alt="Orlando Martinho GitHub stats"/>
+  
+  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrlandoMartinho&layout=compact&hide_border=true&title_color=1DAFDB&text_color=1DAFDB&bg_color=0d1117&langs_count=6" alt="Top Languages"/>
 
+</div>
 
-## 🐍 Contribuições:
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=OrlandoMartinho&custom_title=My+Contribution+Graph&hide_border=true&bg_color=0d1117&title_color=1DAFDB&color=1DAFDB&line=1DAFDB&point=1DAFDB&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div>
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation">
+## 🐍 My Coding Journey
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%">
 </div>
 
 ---
 
-### 🎯 Main skills:
+## 🚀 Tech Stack
 
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117)&nbsp;
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=0D1117)&nbsp;
-![Spring](https://img.shields.io/badge/-Spring-0D1117?style=for-the-badge&logo=spring&logoColor=6DB33F&labelColor=0D1117)&nbsp;
+### 💻 Programming Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=0D1117)
+![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=0D1117)
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=0D1117)
+![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&logoColor=007396&labelColor=0D1117)
 
+### 🌐 Frontend Development
+![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117)
+![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=0D1117)
+![CSS3](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=0D1117)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC&labelColor=0D1117)
 
+### ⚙️ Backend Development
+![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933&labelColor=0D1117)
+![Spring](https://img.shields.io/badge/-Spring-0D1117?style=for-the-badge&logo=spring&logoColor=6DB33F&labelColor=0D1117)
 
-### 🛠 Tools:
+### 🗃️ Databases
+![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=0D1117)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=336791&labelColor=0D1117)
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
+### 🛠️ Tools & Platforms
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032&labelColor=0D1117)
+![VS Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)
+![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E&labelColor=0D1117)
 
-
-
-### 📌 Other Knowledge:
-
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC&labelColor=0D1117)&nbsp;
-![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-![AdobeXD](https://img.shields.io/badge/-AdobeXD-0D1117?style=for-the-badge&logo=adobexd&logoColor=FF61F6&labelColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=336791&labelColor=0D1117)&nbsp;
-
+---
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{OrlandoMartinho}/count.svg" /></p> 
-<br></div>
+  
+## 📊 Profile Views
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+![Visitor Count](https://profile-counter.glitch.me/OrlandoMartinho/count.svg)
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1DAFDB&height=120&section=footer&animation=fadeIn&down=true"/>
