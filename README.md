@@ -56,8 +56,9 @@
   
 ## 📊 Profile Views
 
-![Visitor Count](https://profile-counter.glitch.me/OrlandoMartinho/count.svg)
-
-</div>
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{OrlandoMartinho}/count.svg" /></p> 
+<br></div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1DAFDB&height=120&section=footer&animation=fadeIn&down=true"/>
